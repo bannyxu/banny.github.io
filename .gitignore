@@ -1,6 +1,7 @@
-_site/
-.sass-cache/
-*.DS_Store
-.idea
-*.swp
-.Trashes
+_site
+.sass-cache
+.jekyll-metadata
+node_modules/
+packge.json
+gulpfile.js
+yarn.lock
