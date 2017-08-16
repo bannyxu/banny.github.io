@@ -1,5 +1,5 @@
 # Site
-title:              徐邦智
+title:              banny。徐邦智
 bio:                'life is short,life all in.'
 description:        "welcome to my blog for c++."
 reading_time:       true
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   banny
 
 # Social
 # if you don't have any of social below, comment the line.
