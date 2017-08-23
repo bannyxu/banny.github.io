@@ -6,32 +6,20 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## ABOUT ME
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+- 华中科技大学本硕
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+- 相对于现在所学的专业自动化，飞行器导航 更喜欢编程与钻研
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+- 并非科班学生 或许暂时擅长的也只有c++
 
-## Getting Started
+- 编程起步晚了一丢丢 
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+- 但是与其感叹路难行 不如马上出发
+
+- 以后总会慢慢变强的
+
+- qq：314356058
+- call me banny
