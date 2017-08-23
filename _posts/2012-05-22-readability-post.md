@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "啦啦啦啦啦啦啦"
+title: "【转】readability-post"
 date: 2012-05-22
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
